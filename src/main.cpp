@@ -2,7 +2,7 @@
 #include "mgos_arduino_ssd1306.h"
 #include "mgos.h"
 #include "mgos_mqtt.h"
-#include "fw/src/mgos_gpio.h"
+#include "mgos_gpio.h"
 
 #ifdef __cplusplus
 extern "C" {
